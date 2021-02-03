@@ -69,6 +69,4 @@ APP_URL=http://localhost:8000
 ```
 $ php artisan serve
 ```
-## Links
-[Live Demo](https://up-count.000webhostapp.com/)
 
