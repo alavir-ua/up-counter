@@ -2,6 +2,9 @@
 
 A site for calculating utility bills, storing data in a database, displaying with graphs.
 
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
